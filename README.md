@@ -1,0 +1,2 @@
+# garudaaerospace
+Chennai Photo: The Memorandum of understanding between Garuda Aerospace Pvt. Ltd and Southwest Antennas was entered on the 8th of October 2020. Garuda Aerospace focuses on the design, building and customization of Unmanned Aerial Vehicles for various applications, whereas Southwest Antennas specializes in the design and manufacture of high performance broadband RF / Microwave antennas and accessories designed to be the critical link in today’s audio, video, and data communication environments.
